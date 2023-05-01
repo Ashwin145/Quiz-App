@@ -7,7 +7,8 @@ when we press play button following questions will be shown which the user is su
 ![image](https://user-images.githubusercontent.com/89822123/235451860-a6e06304-3033-4dac-88e5-f5a0b85fb3d8.png)
 
 For each right answer 10 points will be awarded to the user
-![image](https://user-images.githubusercontent.com/89822123/235452146-f453a231-ba7a-41b1-bcd1-ecb29d251fe0.png)
+![image](https://user-images.githubusercontent.com/89822123/235453121-ef9eea90-9e42-4fbc-b8f6-0510fd2ea298.png)
+
 
  no points will be given for wrong answers
  ![image](https://user-images.githubusercontent.com/89822123/235452576-f24dd029-4525-480b-952f-2fbdd572602b.png)
