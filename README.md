@@ -11,4 +11,8 @@ For each right answer 10 points will be awarded to the user
 
  no points will be given for wrong answers
  ![image](https://user-images.githubusercontent.com/89822123/235452576-f24dd029-4525-480b-952f-2fbdd572602b.png)
+ 
+ At the end user can check his score and play again if he wants to
+ ![image](https://user-images.githubusercontent.com/89822123/235452875-c6317a9e-0922-4d10-99d8-2f8e694f68f5.png)
+
 
