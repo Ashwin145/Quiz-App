@@ -15,4 +15,5 @@ For each right answer 10 points will be awarded to the user
  At the end user can check his score and play again if he wants to
  ![image](https://user-images.githubusercontent.com/89822123/235452875-c6317a9e-0922-4d10-99d8-2f8e694f68f5.png)
 
+.........to be continued 
 
