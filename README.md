@@ -10,7 +10,7 @@ For each right answer 10 points will be awarded to the user
 ![image](https://user-images.githubusercontent.com/89822123/235453224-0875474e-6e0a-4b1f-aa6f-330de36ac17a.png)
 
 
- no points will be given for wrong answers
+ no points will be given or deducted for wrong answers
  ![image](https://user-images.githubusercontent.com/89822123/235452576-f24dd029-4525-480b-952f-2fbdd572602b.png)
  
  At the end user can check his score and play again if he wants to
